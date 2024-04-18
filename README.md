@@ -3,4 +3,4 @@ A site that shows the most recent comic of your choice. If you have not entered 
 
 Thanks to https://github.com/ArtskydJ/comicsrss.com for makeing this possable!
 
-Sometimes it takes a while to load so be patient.
+Sometimes it takes a while to load so be patient
